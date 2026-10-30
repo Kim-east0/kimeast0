@@ -1,0 +1,15 @@
+# 키와 환경 설정 (GitHub에 올리지 않음)
+.env
+.env.local
+.env.*.local
+
+# 의존성·빌드 결과
+node_modules/
+.next/
+out/
+coverage/
+
+# 기타
+.DS_Store
+*.log
+*.tsbuildinfo
